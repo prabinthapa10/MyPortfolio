@@ -1,5 +1,5 @@
 import React from "react";
-import { getImageUrl } from "../utils";
+import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css";
 export default function Hero() {
   return (
